@@ -1,0 +1,30 @@
+/* src/components/Home.css */
+
+.home {
+    text-align: center;
+  }
+  
+  .home-header {
+    background-color: #0000FF;
+    color: #FFFFFF;
+    padding: 20px;
+  }
+  
+  .home-content {
+    padding: 20px;
+  }
+  
+  .home-intro, .home-services {
+    margin: 20px auto;
+    max-width: 800px;
+  }
+  
+  .home-footer {
+    background-color: #0000FF;
+    color: #FFFFFF;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
